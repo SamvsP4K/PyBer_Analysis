@@ -17,7 +17,7 @@ Total Rides for each city type are as follows
 
  *Rural: 125
  Suburban: 625
- Urban: 1625
+ Urban: 1625*
 
 A similar pattern follows with the amount of drivers for each city type.
 Rural areas have much less than Urban and Suburban areas.
@@ -25,7 +25,7 @@ Total Drivers are as follows:
 
 *Rural: 78
 Suburban: 490
-Urban: 2405
+Urban: 2405*
 
 However, due to the scarcity of drivers in Rural areas it does seem
 that the average fare per driver is much huger than in Urban and Suburban areas.
@@ -34,7 +34,7 @@ Average fare per driver(rounded up to the nearest dollar. A more accurate number
 
 *Rural:       $55
 Suburban:    $40
-Urban:       $17
+Urban:       $17*
 
 Below is a visualized multi-line chart of the findings.
 
